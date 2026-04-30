@@ -402,4 +402,4 @@ This is a learning project, but suggestions and improvements are welcome!
 
 **Built with curiosity and AI assistance** 🚀
 
-> This project was created with the support of publicly available AI tools such as Amazon Q Developer or Gemini.
+> This project was created with the support of publicly available AI tools.
