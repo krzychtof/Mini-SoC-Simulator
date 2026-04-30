@@ -1,4 +1,4 @@
-# Mini SoC Simulator
+# Mini SoC Simulator (prototype)
 
 A lightweight System-on-Chip (SoC) simulator built with **SystemC** and **TLM-2.0** for learning and demonstrating hardware/software interaction modeling.
 
