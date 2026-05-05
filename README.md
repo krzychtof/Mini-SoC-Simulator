@@ -1,5 +1,7 @@
 # Mini SoC Simulator (prototype)
 
+⚠️ DISCLAIMER: This is a non-commercial educational prototype created for learning purposes only. It is a free learning tool developed as a fun experiment with AI assistance. Not intended for production use.
+
 A lightweight System-on-Chip (SoC) simulator built with **SystemC** and **TLM-2.0** for learning and demonstrating hardware/software interaction modeling.
 
 ## 🎯 Project Overview
